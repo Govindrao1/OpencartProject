@@ -56,6 +56,7 @@ public class StepDef_1 {
 	public void user_click_the_privacy_policy_and_click_continue_button() throws InterruptedException {
 	    registrationPage.checkButtonMethod();
 		registrationPage.continueButtonMethod();
+		Reporter.log("executed..");
 	
 	}
     @Then("close the browser")
