@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[successfully executed...]]>
+    </line>
+    <line>
+      <![CDATA[successfully executed...]]>
+    </line>
+    <line>
+      <![CDATA[successfully executed...]]>
+    </line>
+  </reporter-output>
+  <suite name="RegistrationPage" duration-ms="108057" started-at="2023-04-10T07:33:55 IST" finished-at="2023-04-10T07:35:43 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="108057" started-at="2023-04-10T07:33:55 IST" finished-at="2023-04-10T07:35:43 IST">
+      <class name="RunnerClasses.Runner_1">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="setUpClass" is-config="true" duration-ms="3394" started-at="2023-04-10T07:33:55 IST" finished-at="2023-04-10T07:33:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@79f90a3a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="runScenario" duration-ms="44749" started-at="2023-04-10T07:33:59 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-10T07:34:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User validate the whether the registration page working or not"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["opencart site registration page testing"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successfully executed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="runScenario" duration-ms="27899" started-at="2023-04-10T07:34:43 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-10T07:35:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User validate the whether the registration page working or not"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["opencart site registration page testing"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successfully executed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="runScenario" duration-ms="31593" started-at="2023-04-10T07:35:11 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-10T07:35:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User validate the whether the registration page working or not"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["opencart site registration page testing"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successfully executed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:RunnerClasses.Runner_1@76a4d6c]" name="tearDownClass" is-config="true" duration-ms="194" started-at="2023-04-10T07:35:43 IST" finished-at="2023-04-10T07:35:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- RunnerClasses.Runner_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- RegistrationPage -->
+</testng-results>
